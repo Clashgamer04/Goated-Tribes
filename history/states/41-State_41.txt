@@ -1,0 +1,16 @@
+state={
+	id=41
+	name="STATE_41"
+	provinces={
+		231 402 
+	}
+	history = {
+		owner = MAG
+		add_core_of = MAG
+	}
+	buildings_max_level_factor=1.000
+        manpower=1000000
+        state_category = town
+        manpower=100000
+        state_category = town
+}

@@ -1,0 +1,15 @@
+state={
+	id=94
+	name="STATE_94"
+	provinces={
+		20 34 91 214 218 286 338 354 357 423 627 665 700 720 787 810 817 827 866 903 904 918 979 1031 1181 1209 1244 1289 1325 1334 1450 1475 1492 1497 1501 1506 1510 1551 1557 
+	}
+	history = {
+		owner = MAG
+		add_core_of = MAG
+	}
+	manpower=100000
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

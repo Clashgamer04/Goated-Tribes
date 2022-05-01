@@ -1,0 +1,16 @@
+state={
+	id=19
+	name="STATE_19"
+	provinces={
+		654 1056 1422 1428 
+	}
+	history = {
+		owner = MTG
+		add_core_of = MTG
+	}
+	buildings_max_level_factor=1.000
+        manpower=1000000
+        state_category = town
+        manpower=100000
+        state_category = town
+}

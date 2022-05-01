@@ -1,0 +1,16 @@
+state={
+	id=56
+	name="STATE_56"
+	provinces={
+		46 121 134 148 178 180 220 223 260 365 379 382 438 454 486 594 622 625 730 733 738 743 766 783 932 1091 1095 1119 1176 1177 1276 1314 1322 1666 1678 1680 1688 1708 1720 1728 1736 1740 1754 1758 1808 1810 1812 1846 
+	}
+	history = {
+		owner = CEN
+		add_core_of = CEN
+	}
+	buildings_max_level_factor=1.000
+        manpower=1000000
+        state_category = town
+        manpower=100000
+        state_category = town
+}

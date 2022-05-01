@@ -1,0 +1,19 @@
+state={
+	id=4
+	name="STATE_4"
+	history = {
+		owner = PAZ
+		add_core_of = PAZ
+		victory_points = {
+			617 5
+		}
+	}
+	provinces={
+		52 155 163 443 543 617 1055 1271 1353 1354 1365 1382 
+	}
+	buildings_max_level_factor=1.000
+	manpower=896705
+	state_category = metropolis
+	manpower=1084666
+	state_category = metropolis
+}

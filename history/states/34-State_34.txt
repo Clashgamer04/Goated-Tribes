@@ -1,0 +1,16 @@
+state={
+	id=34
+	name="STATE_34"
+	provinces={
+		119 143 206 321 556 602 673 676 718 729 786 804 1226 1248 1466 1469 1482 1489 1500 1508 1519 1523 
+	}
+	history = {
+		owner = SPJ
+		add_core_of = SPJ
+	}
+	buildings_max_level_factor=1.000
+        manpower=1000000
+        state_category = town
+        manpower=100000
+        state_category = town
+}

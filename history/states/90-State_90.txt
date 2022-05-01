@@ -1,0 +1,16 @@
+state={
+	id=90
+	name="STATE_90"
+	provinces={
+		18 255 635 713 750 943 1127 1180 1285 376
+	}
+	history = {
+		owner = FRO
+		add_core_of = FRO
+	}
+	buildings_max_level_factor=1.000
+        manpower=1000000
+        state_category = town
+        manpower=100000
+        state_category = town
+}

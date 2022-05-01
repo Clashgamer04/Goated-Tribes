@@ -1,0 +1,16 @@
+state={
+	id=37
+	name="STATE_37"
+	provinces={
+		137 200 224 232 254 387 417 459 482 501 517 526 582 589 614 621 643 727 907 915 938 1062 1069 1105 1190 1231 1256 1283 1484 1505 1507 1513 1517 1536 1540 1550 1554 
+	}
+	history = {
+	owner = GOA
+	add_core_of = GOA
+	}
+	buildings_max_level_factor=1.000
+        manpower=1000000
+        state_category = town
+        manpower=100000
+        state_category = town
+}

@@ -1,0 +1,17 @@
+state={
+	id=35
+	name="STATE_35"
+	provinces={
+		87 578 1159 1279 1477 
+	}
+	history = {
+	owner = FRC
+	add_core_of = FRC
+	}
+		
+	buildings_max_level_factor=1.000
+        manpower=1000000
+        state_category = town
+        manpower=100000
+        state_category = town
+}

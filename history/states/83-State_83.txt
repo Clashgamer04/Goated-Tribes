@@ -1,0 +1,16 @@
+state={
+	id=83
+	name="STATE_83"
+	provinces={
+		1904 
+	}
+	history = {
+	owner = ACR
+	add_core_of = ACR
+	}
+	buildings_max_level_factor=1.000
+        manpower=1000000
+        state_category = town
+        manpower=100000
+        state_category = town
+}

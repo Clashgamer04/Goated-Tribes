@@ -1,0 +1,19 @@
+
+state={
+	id=92
+	name="STATE_92"
+	history = {
+		owner = ACR
+		add_core_of = ACR
+		victory_points = {
+			332 2
+		}
+	}
+	provinces={
+		332 1007 1191 1859 1863 1870 1875 
+	}
+	manpower=1206319
+	buildings_max_level_factor=1.000
+	state_category = metropolis
+	local_supplies=0.000
+}

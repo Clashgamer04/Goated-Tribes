@@ -1,0 +1,16 @@
+state={
+	id=70
+	name="STATE_70"
+	provinces={
+		100 516 825 846 
+	}
+	history = {
+	owner = FRE
+	add_core_of = FRE
+	}
+	buildings_max_level_factor=1.000
+        manpower=1000000
+        state_category = town
+        manpower=100000
+        state_category = town
+}

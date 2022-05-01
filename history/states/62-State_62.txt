@@ -1,0 +1,16 @@
+state={
+	id=62
+	name="STATE_62"
+	provinces={
+		30 37 38 49 62 138 199 225 287 504 547 678 702 795 812 1003 1086 1175 1206 1750 1756 1762 1809 1821 1823 1824 1844 1862 
+	}
+	history = {
+	owner = VES
+	add_core_of = VES
+	}
+	buildings_max_level_factor=1.000
+        manpower=1000000
+        state_category = town
+        manpower=100000
+        state_category = town
+}

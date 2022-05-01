@@ -1,0 +1,16 @@
+state={
+	id=36
+	name="STATE_36"
+	provinces={
+		1 248 385 527 536 761 796 893 937 971 1048 1243 1255 1290 1327 1476 1486 1498 1503 1511 1515 1534 
+	}
+	history = {
+		owner = MAG
+		add_core_of = MAG
+	}
+	buildings_max_level_factor=1.000
+        manpower=1000000
+        state_category = town
+        manpower=100000
+        state_category = town
+}

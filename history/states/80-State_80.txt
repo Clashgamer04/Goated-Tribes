@@ -1,0 +1,16 @@
+state={
+	id=80
+	name="STATE_80"
+	provinces={
+		142 156 344 356 799 870 933 994 1088 1096 1266 1879 1885 1888 
+	}
+	history = {
+		owner = SHI
+		add_core_of = SHI
+	}
+	buildings_max_level_factor=1.000
+        manpower=1000000
+        state_category = town
+        manpower=100000
+        state_category = town
+}

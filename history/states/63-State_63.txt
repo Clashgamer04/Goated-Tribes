@@ -1,0 +1,19 @@
+state={
+	id=63
+	name="STATE_63"
+	history = {
+		owner = ELO
+		add_core_of = ELO
+		victory_points = {
+			571 17
+		}
+	}
+	provinces={
+		244 247 281 535 566 571 630 636 692 773 801 851 875 1025 1170 1194 1232 1282 1294 1298 1716 1729 1731 1732 1743 1751 1760 1764 1774 1779 
+	}
+	buildings_max_level_factor=1.000
+	manpower=2138772
+	state_category = megalopolis
+	manpower=2212856
+	state_category = megalopolis
+}

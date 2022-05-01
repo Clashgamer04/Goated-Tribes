@@ -1,0 +1,16 @@
+state={
+	id=23
+	name="STATE_23"
+	provinces={
+		50 189 436 451 507 531 882 1099 1136 1192 1196 1299 1436 1448 
+	}
+	history = {
+		owner = MAG
+		add_core_of = MAG
+	}
+	buildings_max_level_factor=1.000
+        manpower=1000000
+        state_category = town
+        manpower=100000
+        state_category = town
+}

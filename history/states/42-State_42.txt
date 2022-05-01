@@ -1,0 +1,18 @@
+
+state={
+	id=42
+	name="STATE_42"
+	provinces={
+		158 230 265 908
+	}
+	history = {
+		owner = FRO
+		add_core_of = FRO
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+        manpower=100000
+        state_category = town
+}

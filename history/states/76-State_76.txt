@@ -1,0 +1,19 @@
+state={
+	id=76
+	name="STATE_76"
+	history = {
+		owner = ACR
+		add_core_of = ACR
+		victory_points = {
+			952 12
+		}
+	}
+	provinces={
+		196 355 435 610 759 803 822 952 1881 1883 1884 1887 
+	}
+	buildings_max_level_factor=1.000
+	manpower=1242725
+	state_category = metropolis
+	manpower=1180736
+	state_category = metropolis
+}

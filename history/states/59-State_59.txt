@@ -1,0 +1,16 @@
+state={
+	id=59
+	name="STATE_59"
+	provinces={
+		31 150 279 303 330 411 669 768 895 948 1029 1102 1773 
+	}
+	history = {
+	owner = SHI
+	add_core_of = SHI
+	}
+	buildings_max_level_factor=1.000
+        manpower=1000000
+        state_category = town
+        manpower=100000
+        state_category = town
+}

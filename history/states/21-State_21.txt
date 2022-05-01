@@ -1,0 +1,16 @@
+state={
+	id=21
+	name="STATE_21"
+	provinces={
+		10 95 192 341 437 472 509 552 611 664 688 724 767 914 1272 1434 1439 1452 1460 1472 1473 1480 1485 
+	}
+	history = {
+	owner = PIN
+	add_core_of = PIN
+	}
+	buildings_max_level_factor=1.000
+        manpower=1000000
+        state_category = town
+        manpower=100000
+        state_category = town
+}

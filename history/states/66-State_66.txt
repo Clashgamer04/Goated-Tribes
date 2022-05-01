@@ -1,0 +1,19 @@
+state={
+	id=66
+	name="STATE_66"
+	history = {
+		owner = CEN
+		add_core_of = CEN
+		victory_points = {
+			751 3
+		}
+	}
+	provinces={
+		81 133 266 300 584 751 1022 1309 1313 1735 1747 1749 1768 1775 1777 1784 
+	}
+	buildings_max_level_factor=1.000
+	manpower=5703834
+	state_category = megalopolis
+	manpower=5827128
+	state_category = megalopolis
+}

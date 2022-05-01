@@ -1,0 +1,15 @@
+state={
+	id=67
+	name="STATE_67"
+	provinces={
+		57 76 173 190 194 422 444 605 880 881 1107 1134 1138 1183 1741 1746 1767 1783 1788 
+	}
+	history = {
+		owner = JUT
+		add_core_of = JUT
+	}
+	buildings_max_level_factor=1.000
+        manpower=1000000
+        state_category = town
+        
+}

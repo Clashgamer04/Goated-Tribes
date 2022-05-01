@@ -1,0 +1,16 @@
+state={
+	id=17
+	name="STATE_17"
+	provinces={
+		4 24 75 112 118 120 233 318 485 496 508 575 601 633 853 863 896 995 1141 1400 1414 1433 1442 1454 1468 
+	}
+	history = {
+		owner = PAZ
+		add_core_of = PAZ
+	}
+	buildings_max_level_factor=1.000
+        manpower=1000000
+        state_category = town
+        manpower=100000
+        state_category = town
+}

@@ -1,0 +1,16 @@
+state={
+	id=1
+	name="STATE_1"
+	provinces={
+		159 179 197 250 253 331 342 585 693 737 780 824 844 862 965 1038 1047 1162 1269 1287 1310 1329 1340 1341 1342 1343 1344 1345 1346 1356 1358 1361 1378 1380 1383 1388 
+	}
+	history = {
+	owner = ETA
+	add_core_of = ETA
+	}
+	buildings_max_level_factor=1.000
+        manpower=1000000
+        state_category = town
+	
+        
+}

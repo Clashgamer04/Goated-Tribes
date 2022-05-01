@@ -1,0 +1,15 @@
+state={
+	id=93
+	name="STATE_93"
+	provinces={
+		11 14 77 126 135 144 160 195 221 261 282 297 469 573 603 731 774 820 867 919 1032 1067 1106 1195 1219 1301 1369 1373 1392 1407 
+	}
+	history = {
+		owner = MTG
+		add_core_of = MTG
+	}
+	manpower=100000
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

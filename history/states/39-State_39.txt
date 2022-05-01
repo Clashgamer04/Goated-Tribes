@@ -1,0 +1,16 @@
+state={
+	id=39
+	name="STATE_39"
+	provinces={
+		78 113 116 161 165 228 256 284 380 381 455 461 497 538 546 581 596 675 686 711 741 762 793 805 917 920 1044 1046 1172 1173 1237 1265 1275 1292 1297 1304 1330 1490 1491 1512 1520 1524 1525 1527 1529 1537 1539 1543 1546 1548 1559 1561 
+	}
+	history = {
+		owner = CEN
+		add_core_of = CEN
+	}
+	buildings_max_level_factor=1.000
+        manpower=1000000
+        state_category = town
+        manpower=100000
+        state_category = town
+}

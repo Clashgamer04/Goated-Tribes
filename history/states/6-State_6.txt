@@ -1,0 +1,16 @@
+state={
+	id=6
+	name="STATE_6"
+	provinces={
+		89 115 208 293 360 394 656 690 837 838 883 913 966 1001 1217 1274 1321 1332 1357 1359 1371 1404 1411 
+	}
+	history = {
+		owner = WBR
+		add_core_of = WBR
+	}
+	buildings_max_level_factor=1.000
+        manpower=1000000
+        state_category = town
+        manpower=100000
+        state_category = town
+}

@@ -1,0 +1,16 @@
+state={
+	id=45
+	name="STATE_45"
+	provinces={
+		26 71 98 149 167 181 235 237 397 520 523 598 637 698 749 829 840 860 890 901 944 990 1043 1059 1114 1150 1151 1229 1277 1569 1576 1587 1611 1617 1621 1645 1655 1656 1665 1668 1697 
+	}
+	history = {
+		owner = SHI
+		add_core_of = SHI
+	}
+	buildings_max_level_factor=1.000
+        manpower=1000000
+        state_category = town
+        manpower=100000
+        state_category = town
+}

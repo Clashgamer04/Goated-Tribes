@@ -1,0 +1,16 @@
+state={
+	id=3
+	name="STATE_3"
+	provinces={
+		63 186 269 285 345 377 453 514 628 668 671 847 858 941 945 972 982 996 1014 1094 1112 1122 1178 1210 1348 1349 1350 1351 1352 1376 1377 1379 1384 1402 
+	}
+	history = {
+		owner = MTG
+		add_core_of = MTG
+	}
+	buildings_max_level_factor=1.000
+        manpower=1000000
+        state_category = town
+        manpower=100000
+        state_category = town
+}

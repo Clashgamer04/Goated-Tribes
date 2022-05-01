@@ -1,0 +1,16 @@
+state={
+	id=79
+	name="STATE_79"
+	provinces={
+		48 
+	}
+	history = {
+		owner = GAC
+		add_core_of = GAC
+	}
+	buildings_max_level_factor=1.000
+        manpower=1000000
+        state_category = town
+        manpower=100000
+        state_category = town
+}

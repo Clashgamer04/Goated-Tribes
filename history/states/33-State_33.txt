@@ -1,0 +1,18 @@
+state={
+	id=33
+	name="STATE_33"
+	history = {
+		owner = YOR
+		add_core_of = YOR
+		victory_points = {
+			1560 3
+		}
+	}
+	provinces={
+		19 84 147 169 188 198 205 222 304 307 334 336 346 391 410 475 478 484 506 518 541 577 719 785 815 834 841 850 871 909 912 931 935 977 1005 1040 1075 1084 1132 1216 1499 1504 1516 1532 1533 1542 1556 1560 1562 1572 1573 
+	}
+	buildings_max_level_factor=1.000
+	manpower=1083946
+	state_category = metropolis
+	
+}

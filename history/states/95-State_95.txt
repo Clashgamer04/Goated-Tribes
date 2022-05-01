@@ -1,0 +1,15 @@
+state={
+	id=95
+	name="STATE_95"
+	provinces={
+		43 358 426 465 600 784 807 891 1010 1020 1230 1233 1239 1337 1570 
+	}
+	history = {
+		owner = MAG
+		add_core_of = MAG
+	}
+	manpower=100000
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

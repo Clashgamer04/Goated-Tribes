@@ -1,0 +1,22 @@
+state={
+	id=51
+	name="STATE_51"
+	history = {
+		owner = LNR
+		add_core_of = LNR
+		victory_points = {
+			1658 1
+		}
+		victory_points = {
+			1295 37
+		}
+	}
+	provinces={
+		13 56 58 171 241 243 264 275 323 432 525 533 620 651 679 680 717 823 964 984 1033 1083 1167 1235 1242 1254 1260 1295 1315 1649 1651 1658 1660 1662 1693 
+	}
+	buildings_max_level_factor=1.000
+	manpower=5786652
+	state_category = megalopolis
+	manpower=6729576
+	state_category = megalopolis
+}

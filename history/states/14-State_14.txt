@@ -1,0 +1,19 @@
+state={
+	id=14
+	name="STATE_14"
+	history = {
+		owner = KAI
+		add_core_of = KAI
+		victory_points = {
+			1456 15
+		}
+	}
+	provinces={
+		53 151 166 187 296 308 320 328 335 487 521 528 666 701 707 736 756 758 811 848 934 960 1058 1092 1166 1387 1398 1403 1405 1406 1408 1413 1416 1418 1427 1435 1437 1440 1449 1456 
+	}
+	buildings_max_level_factor=1.000
+	manpower=2540888
+	state_category = megalopolis
+	manpower=2740602
+	state_category = megalopolis
+}

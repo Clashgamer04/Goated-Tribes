@@ -1,0 +1,16 @@
+state={
+	id=50
+	name="STATE_50"
+	provinces={
+		12 33 72 132 145 424 452 493 568 685 689 1082 1198 1616 1622 1640 
+	}
+	history = {
+	owner = YOR
+	add_core_of = YOR
+	}
+	buildings_max_level_factor=1.000
+        manpower=1000000
+        state_category = town
+        manpower=100000
+        state_category = town
+}

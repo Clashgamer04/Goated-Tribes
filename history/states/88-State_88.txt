@@ -1,0 +1,22 @@
+
+state={
+	id=88
+	name="STATE_88"
+
+	history={
+		owner = LNR
+		add_core_of = LNR
+		victory_points = {
+			333 16 
+		}
+
+	}
+
+	provinces={
+		69 122 141 193 210 219 238 283 306 333 339 372 420 429 441 495 498 502 563 639 699 709 781 861 872 894 916 936 961 1004 1011 1023 1120 1200 1338 1564 1598 1601 1613 1614 1623 1630 1631 1634 1636 1637 1648 1659 
+	}
+	manpower=6178116
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+	local_supplies=0.000
+}
