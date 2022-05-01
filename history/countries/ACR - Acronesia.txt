@@ -1,0 +1,166 @@
+capital = 87
+
+set_research_slots = 3
+
+set_stability = 0.8
+
+set_war_support = 0.2
+
+add_political_power = 2
+
+set_convoys = 2000
+
+set_popularities = {
+	democratic = 57
+	communism = 0
+	fascism = 33
+	neutrality = 10
+}
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1932.11.8"
+	election_frequency = 48
+	elections_allowed = Yes
+}
+
+create_country_leader = {
+	name = "Lon Fawcett"
+	desc = "POLITICS_LON_FAWCETT_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
+	expire = "1969.1.7"
+	ideology = conservatism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Shane Ireson"
+	desc = "POLITICS_SHANE_IRESON_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
+	expire = "1968.9.4"
+	ideology = marxism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Maison Lawler"
+	desc = "POLITICS_MAISON_LAWLER_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
+	expire = "1974.8.22"
+	ideology = gen_nazism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Steward Foden"
+	desc = "POLITICS_STEWARD_FODEN_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
+	expire = "1972.10.19"
+	ideology = anarchism
+	traits = {
+	}
+}
+
+create_corps_commander = {
+	name = "Ulric Kirkpatrick"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_5.dds"
+	traits = {}
+	attack_skill = 1
+	defense_skill = 4
+	planning_skill = 3
+	logistics_skill = 4
+}
+
+create_corps_commander = {
+	name = "Hagen Willetts"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
+	traits = {}
+	attack_skill = 1
+	defense_skill = 3
+	planning_skill = 3
+	logistics_skill = 3
+}
+
+create_corps_commander = {
+	name = "Haley Porter"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
+	traits = {}
+	attack_skill = 2
+	defense_skill = 2
+	planning_skill = 3
+	logistics_skill = 3
+}
+
+create_corps_commander = {
+	name = "Aleck Montague"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
+	traits = {}
+	attack_skill = 3
+	defense_skill = 2
+	planning_skill = 4
+	logistics_skill = 4
+}
+
+create_corps_commander = {
+	name = "Ralf Wiseman"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_5.dds"
+	traits = {}
+	attack_skill = 5
+	defense_skill = 1
+	planning_skill = 3
+	logistics_skill = 2
+}
+
+create_navy_leader = {
+	name = "Fazeel Milward"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_navy_2.dds"
+	traits = {}
+	attack_skill = 3
+	defense_skill = 2
+	maneuvering_skill = 3
+	coordination_skill = 5
+}
+
+create_navy_leader = {
+	name = "Mayer Eskins"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_navy_1.dds"
+	traits = {}
+	attack_skill = 1
+	defense_skill = 2
+	maneuvering_skill = 2
+	coordination_skill = 1
+}
+
+create_navy_leader = {
+	name = "Beck Tennant"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_navy_1.dds"
+	traits = {}
+	attack_skill = 1
+	defense_skill = 2
+	maneuvering_skill = 2
+	coordination_skill = 5
+}
+
+create_navy_leader = {
+	name = "Townie Lamond"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_navy_2.dds"
+	traits = {}
+	attack_skill = 3
+	defense_skill = 5
+	maneuvering_skill = 5
+	coordination_skill = 4
+}
+
+create_navy_leader = {
+	name = "Zebadiah Garrard"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_navy_2.dds"
+	traits = {}
+	attack_skill = 3
+	defense_skill = 1
+	maneuvering_skill = 2
+	coordination_skill = 1
+}
+
