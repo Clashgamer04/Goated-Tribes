@@ -25,7 +25,7 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Lon Fawcett"
+	name = "Oracle"
 	desc = "POLITICS_LON_FAWCETT_DESC"
 	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
 	expire = "1969.1.7"
@@ -35,7 +35,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Shane Ireson"
+	name = "Clash Gamer"
 	desc = "POLITICS_SHANE_IRESON_DESC"
 	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
 	expire = "1968.9.4"
@@ -45,7 +45,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Maison Lawler"
+	name = "Basil Al-Ris"
 	desc = "POLITICS_MAISON_LAWLER_DESC"
 	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
 	expire = "1974.8.22"
@@ -55,7 +55,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Steward Foden"
+	name = "RAD dude"
 	desc = "POLITICS_STEWARD_FODEN_DESC"
 	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
 	expire = "1972.10.19"
@@ -75,7 +75,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Hagen Willetts"
+	name = "Noaschm"
 	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
 	traits = {}
 	attack_skill = 1
@@ -95,7 +95,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Aleck Montague"
+	name = "Vestivity"
 	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
 	traits = {}
 	attack_skill = 3
@@ -115,7 +115,7 @@ create_corps_commander = {
 }
 
 create_navy_leader = {
-	name = "Fazeel Milward"
+	name = "Clovered Firearm"
 	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_navy_2.dds"
 	traits = {}
 	attack_skill = 3
@@ -125,7 +125,7 @@ create_navy_leader = {
 }
 
 create_navy_leader = {
-	name = "Mayer Eskins"
+	name = "Big M"
 	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_navy_1.dds"
 	traits = {}
 	attack_skill = 1
@@ -135,7 +135,7 @@ create_navy_leader = {
 }
 
 create_navy_leader = {
-	name = "Beck Tennant"
+	name = "Kwazy"
 	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_navy_1.dds"
 	traits = {}
 	attack_skill = 1
@@ -145,7 +145,7 @@ create_navy_leader = {
 }
 
 create_navy_leader = {
-	name = "Townie Lamond"
+	name = "Stoic"
 	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_navy_2.dds"
 	traits = {}
 	attack_skill = 3
@@ -155,7 +155,7 @@ create_navy_leader = {
 }
 
 create_navy_leader = {
-	name = "Zebadiah Garrard"
+	name = "Canton"
 	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_navy_2.dds"
 	traits = {}
 	attack_skill = 3
