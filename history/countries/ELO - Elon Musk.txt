@@ -45,7 +45,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Lyle Vass"
+	name = "Irish Bro"
 	desc = "POLITICS_LYLE_VASS_DESC"
 	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_5.dds"
 	expire = "1970.3.14"
