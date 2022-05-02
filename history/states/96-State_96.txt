@@ -7,6 +7,11 @@ state={
 	history = {
 	owner = SHA
 	add_core_of = SHA
+	buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+	}
 	}
 	manpower=100000
 	state_category = town
