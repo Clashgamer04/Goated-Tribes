@@ -1145,6 +1145,8 @@ focus_tree = {
 			FOCUS_FILTER_INDUSTRY
 		}
 		prerequisite = { focus = ACR_economic_cooperation  }
+		completion_reward = {
+			add_offsite_building = { type = arms_factory level = 3 }
 	}
 
 	#Extra Research Slot
